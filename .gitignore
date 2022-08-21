@@ -1,0 +1,6 @@
+.idea
+node_modules/**/*
+hydrogen-demo/node_modules/**/*
+hydrogen-demo/.DS_Store
+hydrogen-demo/dist
+hydrogen-demo/*.local
